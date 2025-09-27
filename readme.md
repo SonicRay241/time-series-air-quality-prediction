@@ -44,4 +44,4 @@ These results indicate the model captures meaningful temporal dependencies in th
 
 ## 📄 License
 
-This project is licensed under the [MIT License](https://github.com/SonicRay241/time-series-air-quality-prediction/main/blob/LICENSE).
+This project is licensed under the [MIT License](https://github.com/SonicRay241/time-series-air-quality-prediction/blob/main/LICENSE).
